@@ -29,7 +29,7 @@ const Hero = () => {
             <View style={styles.iconContainer}>
               <FontAwesome name="check" size={16} color="white" />
             </View>
-            <Text style={styles.infoText}>91.2% accuracy in early detection</Text>
+            <Text style={styles.infoText}>87.2% accuracy in early detection</Text>
           </View>
         </View>
         <View style={styles.imageContainer}>
